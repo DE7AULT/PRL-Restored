@@ -1,0 +1,27 @@
+[
+    {
+        "name": "teste",
+        "items": [
+            {
+                "ProductID": 1,
+                "InstanceID": 1,
+                "SeriesID": 1,
+                "Attributes": [
+                    {
+                        "Key": "Title",
+                        "Value": "0"
+                    }
+                ],
+                "AddedTimestamp": 0,
+                "UpdatedTimestamp": 0
+            },
+            {
+                "ProductID": 2
+            }
+        ]
+    },
+    {
+        "name": "test2",
+        "items": []
+    }
+]

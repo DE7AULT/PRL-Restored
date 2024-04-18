@@ -1,0 +1,33 @@
+{
+  "name": "rocket-phantom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "collect.js": "^4.20.3",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.2",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "mysql": "^2.18.1",
+    "node-machine-id": "^1.1.12",
+    "random-char": "^1.0.4",
+    "semver": "^7.3.2",
+    "string-punctuation-tokenizer": "^2.0.0",
+    "syswide-cas": "^5.3.0",
+    "websocket": "^1.0.31",
+    "websocket-as-promised": "^1.0.1",
+    "win-ca": "^3.2.0",
+    "winston": "^3.2.1",
+    "ws": "^7.2.3"
+  }
+}

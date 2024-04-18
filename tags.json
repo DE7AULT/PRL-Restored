@@ -1,0 +1,468 @@
+[
+    {
+        "ProductID": 5,
+        "TitleID": "Developer"
+	},
+	{
+		"ProductID": 34,
+		"TitleID": "CRL_Season_1_Champion"
+		
+	},
+	{
+		"ProductID": 744,
+		"TitleID": "CRL_Analyst"
+	
+	},
+	{
+		"ProductID": 390,
+		"TitleID": "CRL_Season_1_Elite"
+		
+	},
+	{
+        "ProductID": 785,
+        "TitleID": "DreamHack_Champion"
+	},
+	{
+		"ProductID": 775,
+		"TitleID": "Eleague_Cup_Champion"
+		
+	},
+	{
+		"ProductID": 4832,
+		"TitleID": "ESLMonthlyChampion"
+	
+	},
+	{
+		"ProductID": 2028,
+		"TitleID": "ESLMonthlyElite"
+		
+	},
+	{
+		"ProductID": 234,
+		"TitleID": "FirstRocketeer"
+	
+	},
+	{
+		"ProductID": 4271,
+		"TitleID": "MLGSeason1Champion"
+		
+	},
+	{
+		"ProductID": 3406,
+		"TitleID": "MLGSeason1Elite"
+		
+	},
+	{
+		"ProductID": 3609,
+		"TitleID": "Moderator"
+	
+	},
+	{
+		"ProductID": 2476,
+		"TitleID": "PaxChampion"
+		
+	},
+	{
+        "ProductID": 2423,
+        "TitleID": "RLCS_01_Contender"
+	},
+	{
+		"ProductID": 1953,
+		"TitleID": "RLCS_01_Elite"
+		
+	},
+	{
+		"ProductID": 1562,
+		"TitleID": "RLCS_01_Grand_Finalist"
+	
+	},
+	{
+		"ProductID": 2424,
+		"TitleID": "RLCS_01_World_Champion"
+		
+	},
+	{
+		"ProductID": 1769,
+		"TitleID": "RLCS_02_Contender"
+		
+	},
+	{
+		"ProductID": 1520,
+		"TitleID": "RLCS_02_Elite"
+	
+	},
+	{
+		"ProductID": 1102,
+		"TitleID": "RLCS_02_Grand_Finalist"
+		
+	},
+	{
+        "ProductID": 4488,
+        "TitleID": "RLCS_02_World_Champion"
+	},
+	{
+		"ProductID": 1710,
+		"TitleID": "RLCS_03_Contender"
+		
+	},
+	{
+		"ProductID": 4429,
+		"TitleID": "RLCS_03_Elite"
+	
+	},
+	{
+		"ProductID": 4936,
+		"TitleID": "RLCS_03_Grand_Finalist"
+		
+	},
+	{
+		"ProductID": 4238,
+		"TitleID": "RLCS_03_World_Champion"
+		
+	},
+	{
+		"ProductID": 3305,
+		"TitleID": "RLCS_04_Contender"
+	
+	},
+	{
+		"ProductID": 5295,
+		"TitleID": "RLCS_04_Elite"
+		
+	},
+	{
+        "ProductID": 4679,
+        "TitleID": "RLCS_04_Grand_Finalist"
+	},
+	{
+		"ProductID": 4417,
+		"TitleID": "RLCS_04_World_Champion"
+		
+	},
+	{
+		"ProductID": 4934,
+		"TitleID": "RLCS_05_Contender"
+	
+	},
+	{
+		"ProductID": 4418,
+		"TitleID": "RLCS_05_Elite"
+		
+	},
+	{
+		"ProductID": 4651,
+		"TitleID": "RLCS_05_Grand_Finalist"
+		
+	},
+	{
+		"ProductID": 2456,
+		"TitleID": "RLCS_05_World_Champion"
+		
+	},
+	{
+		"ProductID": 2573,
+		"TitleID": "RLCS_Analyst"
+		
+	},
+	{
+		"ProductID": 4419,
+		"TitleID": "RLRS_01_Challenger"
+		
+	},
+	{
+		"ProductID": 4714,
+		"TitleID": "RLRS_02_Challenger"
+		
+	},
+	{
+		"ProductID": 4388,
+		"TitleID": "Season2GrandChampion"
+		
+	},
+	{
+		"ProductID": 5259,
+		"TitleID": "Season4GrandChampion"
+		
+	},
+	{
+		"ProductID": 2419,
+		"TitleID": "Season7GrandChampion"
+		
+	},
+	{
+		"ProductID": 4486,
+		"TitleID": "The_Pigeon_Man"
+		
+	},
+	{
+		"ProductID": 4422,
+		"TitleID": "Wet_Art_Man"
+		
+	},
+	{
+		"ProductID": 2450,
+		"TitleID": "Throwdown_ANZ_Champion"
+		
+	},
+	{
+		"ProductID": 3447,
+		"TitleID": "UORL_Champion"
+		
+	},
+	{
+		"ProductID": 2520,
+		"TitleID": "X_Games_Champion"
+		
+	},
+	{
+		"ProductID": 4420,
+		"TitleID": "RLCS_06_Contender"
+		
+	},
+	{
+		"ProductID": 4707,
+		"TitleID": "RLCS_06_Elite"
+		
+	},
+	{
+		"ProductID": 1975,
+		"TitleID": "RLCS_06_Grand_Finalist"
+		
+	},
+	{
+		"ProductID": 1767,
+		"TitleID": "RLCS_06_World_Champion"
+		
+	},
+	{
+		"ProductID": 5296,
+		"TitleID": "Renegade_Cup_Champion"
+		
+	},
+	{
+		"ProductID": 4955,
+		"TitleID": "Renegade_Cup_Elite"
+		
+	},
+	{
+		"ProductID": 3302,
+		"TitleID": "Renegade_Cup_Monthly_Winner"
+		
+	},
+	{
+		"ProductID": 4938,
+		"TitleID": "RLRS_03_Challenger"
+		
+	},
+	{
+		"ProductID": 2552,
+		"TitleID": "Rival_Series_Analyst"
+		
+	},
+	{
+		"ProductID": 5327,
+		"TitleID": "CRL_Season_2_Champion"
+		
+	},
+	{
+		"ProductID": 4978,
+		"TitleID": "CRL_Season_2_Elite"
+		
+	},
+	{
+		"ProductID": 5165,
+		"TitleID": "CRL_02_Contender"
+		
+	},
+	{
+		"ProductID": 2874,
+		"TitleID": "Rockets_Engaged"
+		
+	},
+	{
+		"ProductID": 2875,
+		"TitleID": "CRL_03_SpringChampion"
+		
+	},
+	{
+		"ProductID": 4701,
+		"TitleID": "CRL_03_SpringElite"
+		
+	},
+	{
+		"ProductID": 4236,
+		"TitleID": "CRL_03_SpringContender"
+		
+	},
+	{
+		"ProductID": 4235,
+		"TitleID": "CRL_03_FallChampion"
+		
+	},
+	{
+		"ProductID": 2876,
+		"TitleID": "CRL_03_FallElite"
+		
+	},
+	{
+		"ProductID": 4897,
+		"TitleID": "CRL_03_FallContender"
+		
+	},
+	{
+		"ProductID": 5479,
+		"TitleID": "RLRS_04_Challenger"
+		
+	},
+	{
+		"ProductID": 4972,
+		"TitleID": "RLCS_07_Contender"
+		
+	},
+	{
+		"ProductID": 2877,
+		"TitleID": "RLCS_07_Elite"
+		
+	},
+	{
+		"ProductID": 5294,
+		"TitleID": "RLCS_07_Grand_Finalist"
+		
+	},
+	{
+		"ProductID": 2488,
+		"TitleID": "RLCS_07_World_Champion"
+		
+	},
+	{
+		"ProductID": 4899,
+		"TitleID": "BTS_Champion"
+		
+	},
+	{
+		"ProductID": 4423,
+		"TitleID": "Rocket_Husband"
+		
+	},
+	{
+		"ProductID": 4005,
+		"TitleID": "Rocket_Wife"
+		
+	},
+	{
+		"ProductID": 4940,
+		"TitleID": "RLRS_05_Challenger"
+		
+	},
+	{
+		"ProductID": 3300,
+		"TitleID": "RLCS_08_Contender"
+		
+	},
+	{
+		"ProductID": 5564,
+		"TitleID": "RLCS_08_Elite"
+		
+	},
+	{
+		"ProductID": 2538,
+		"TitleID": "RLCS_08_Grand_Finalist"
+		
+	},
+	{
+		"ProductID": 2878,
+		"TitleID": "RLCS_08_World_Champion"
+		
+	},
+	{
+		"ProductID": 4562,
+		"TitleID": "2Time_World_Champion"
+		
+	},
+	{
+		"ProductID": 4421,
+		"TitleID": "3Time_World_Champion"
+		
+	},
+	{
+		"ProductID": 3303,
+		"TitleID": "4Time_World_Champion"
+		
+	},
+	{
+		"ProductID": 2502,
+		"TitleID": "5Time_World_Champion"
+		
+	},
+	{
+		"ProductID": 2477,
+		"TitleID": "RLRS_06_Challenger"
+		
+	},
+	{
+		"ProductID": 3301,
+		"TitleID": "RLCS_09_Contender"
+		
+	},
+	{
+		"ProductID": 5293,
+		"TitleID": "RLCS_09_NA_Champion"
+		
+	},
+	{
+		"ProductID": 5620,
+		"TitleID": "RLCS_09_Elite"
+		
+	},
+	{
+		"ProductID": 2529,
+		"TitleID": "RLCS_09_EU_Champion"
+		
+	},
+	{
+		"ProductID": 4905,
+		"TitleID": "KickOff_AsiaElite"
+		
+	},
+	{
+		"ProductID": 4239,
+		"TitleID": "KickOff_AsiaGrandFinalist"
+		
+	},
+	{
+		"ProductID": 4424,
+		"TitleID": "KickOff_AsiaChampion"
+		
+	},
+	{
+		"ProductID": 2755,
+		"TitleID": "KickOff_MiddleEastElite"
+		
+	},
+	{
+		"ProductID": 3304,
+		"TitleID": "KickOff_MiddleEastGrandFinalist"
+		
+	},
+	{
+		"ProductID": 4657,
+		"TitleID": "KickOff_MiddleEastChampion"
+		
+	},
+	{
+		"ProductID": 4939,
+		"TitleID": "GrandSeries_09_Champion"
+		
+	},
+	{
+		"ProductID": 4700,
+		"TitleID": "GrandSeries_09_Elite"
+		
+	},	
+	{
+		"ProductID": 0,
+		"TitleID": "Developer"
+		
+	}
+	
+]
